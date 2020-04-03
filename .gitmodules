@@ -1,0 +1,4 @@
+[submodule "module/sub"]
+	path = module/sub
+	url = https://github.com/DaisyCJ/test-submodule-sub
+	branch = develop
